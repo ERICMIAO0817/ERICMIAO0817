@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about music/fancy thoughts/crazy ideas.
 - 📫 How to reach me: ericccc888666@gmail.com
 - :boom: Fun fact: Allergic to curry(food, not my favorite shooter).
+
+### New in code ~
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERICMIAO0817&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ERICMIAO0817&hide=java&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
