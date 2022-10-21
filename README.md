@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on what I'm interested in.
-- 🌱 I’m currently learning NLP/GAN/YOLO. ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+- 🌱 I’m currently learning NLP/GAN/YOLO.
 - 💬 Ask me about music/fancy thoughts/crazy ideas.
 - 📫 How to reach me: ericccc888666@gmail.com
 - :boom: Fun fact: Allergic to curry(food, not my favorite shooter).
 
 ### New in code ~
+ ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERICMIAO0817&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
