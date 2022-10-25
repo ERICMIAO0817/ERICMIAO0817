@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Visitors:
-
+![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=ERICMIAO0817&repo=ERICMIAO0817)
 
 ### About me
 <!--
