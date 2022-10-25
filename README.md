@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Visitors:
-[<div align=center>![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)</div>
+[<div align=center>![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/ERICMIAO0817)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)</div>
 
 ### About me
 <!--
