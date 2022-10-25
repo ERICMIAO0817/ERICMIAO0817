@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Visitors:
+[<div align=center>![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)</div>
+
+### About me
 <!--
 **ERICMIAO0817/ERICMIAO0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
