@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on what I'm interested in.
-- 🌱 I’m currently learning NLP/GAN/YOLO.
+- 🌱 I’m currently learning NLP/GAN/YOLO/HTM.
 - 💬 Ask me about music/fancy thoughts/crazy ideas.
 - 📫 How to reach me: ericccc888666@gmail.com
 - :boom: Fun fact: Allergic to curry(food, not my favorite shooter).
