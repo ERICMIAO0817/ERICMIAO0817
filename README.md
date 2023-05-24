@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 - 🌐 Check out my <a href="https://ericmiao.top">personal website!</a> (thx to HEXO)
 - :boom: Fun fact: Allergic to curry(food, not my favorite shooter).
 
-### New in code ~
- ![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### ALWAYS New in code ~
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ERICMIAO0817&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICMIAO0817&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -36,8 +35,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=global-nlp&repo=knlp&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=global-nlp&repo=knlp&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ERICMIAO0817&repo=ericmiao.top&theme=solarized-light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ERICMIAO0817&repo=ericmiao.top&theme=transparent" />
 </a>
