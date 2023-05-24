@@ -1,8 +1,9 @@
 ### Hi there 👋
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### Visitors:
-![Visitor Badge](https://visitor-badge.feriirawann.repl.co?username=ERICMIAO0817&repo=ERICMIAO0817)
-
+<span style="font-family: cursive;color: green;"> YOU ARE VISITOR </span>
+![Visitor Count](https://profile-counter.glitch.me/ERICMIAO0817/count.svg)
 ### About me
 <!--
 **ERICMIAO0817/ERICMIAO0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning NLP/GAN/YOLO/HTM.
 - 💬 Ask me about music/fancy thoughts/crazy ideas.
 - 📫 How to reach me: ericccc888666@gmail.com
+- 🌐 Check out my <a href="https://ericmiao.top">personal website!</a> (thx to HEXO)
 - :boom: Fun fact: Allergic to curry(food, not my favorite shooter).
 
 ### New in code ~
